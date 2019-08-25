@@ -41,7 +41,7 @@ $ mvn test
 ```
 Steps to Run :
 ```sh
-$ mvn springboot:run
+$ mvn spring-boot:run
 ```
 
 Project will run under the http://localhost:8080 
