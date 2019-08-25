@@ -1,5 +1,5 @@
 # Waes Scalable Web Application
-This repo for the WAES assignment for the Java Developer . You can view the app live here.
+ WAES assignment Project for the Java Developer .
 
 # Assignment 
 - Provide 2 http endpoints that accepts JSON base64 encoded binary data on both endpoints
